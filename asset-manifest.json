@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/043raviranjan/react-templat/static/css/main.aa5ce505.css",
-    "main.js": "/043raviranjan/react-templat/static/js/main.ff67abfd.js",
-    "static/js/453.f5e6d0c3.chunk.js": "/043raviranjan/react-templat/static/js/453.f5e6d0c3.chunk.js",
-    "static/media/photo-1506744038136-46273834b3fb.jpg": "/043raviranjan/react-templat/static/media/photo-1506744038136-46273834b3fb.ca39db47ece1b8e375de.jpg",
-    "index.html": "/043raviranjan/react-templat/index.html",
-    "main.aa5ce505.css.map": "/043raviranjan/react-templat/static/css/main.aa5ce505.css.map",
-    "main.ff67abfd.js.map": "/043raviranjan/react-templat/static/js/main.ff67abfd.js.map",
-    "453.f5e6d0c3.chunk.js.map": "/043raviranjan/react-templat/static/js/453.f5e6d0c3.chunk.js.map"
+    "main.css": "/react-templat/static/css/main.aa5ce505.css",
+    "main.js": "/react-templat/static/js/main.f8816e4a.js",
+    "static/js/453.f5e6d0c3.chunk.js": "/react-templat/static/js/453.f5e6d0c3.chunk.js",
+    "static/media/photo-1506744038136-46273834b3fb.jpg": "/react-templat/static/media/photo-1506744038136-46273834b3fb.ca39db47ece1b8e375de.jpg",
+    "index.html": "/react-templat/index.html",
+    "main.aa5ce505.css.map": "/react-templat/static/css/main.aa5ce505.css.map",
+    "main.f8816e4a.js.map": "/react-templat/static/js/main.f8816e4a.js.map",
+    "453.f5e6d0c3.chunk.js.map": "/react-templat/static/js/453.f5e6d0c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa5ce505.css",
-    "static/js/main.ff67abfd.js"
+    "static/js/main.f8816e4a.js"
   ]
 }
